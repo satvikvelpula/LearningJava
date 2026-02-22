@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="adae3b10-d683-4d93-8cf8-d5852cf58734" name="Changes" comment="Task 4 published (GitHub Copilot practice)">
+      <change afterPath="$PROJECT_DIR$/Interface/3.2.Task1/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/3.2.Task2/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/3.2.Task3/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/3.2.Task4/src/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1.Task1/1.1.Task1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1.Task1/src/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1.Task2/1.1.Task2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1.Task2/src/AsteriskTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1.Task3/1.1.Task3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1.Task3/src/SumOfThreeNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1.Task4/1.1.Task4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1.Task4/src/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2.Task1/1.2.Task1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2.Task1/src/Converter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2.Task2/1.2.Task2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2.Task2/src/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2.Task3/1.2.Task3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2.Task3/src/ObsoleteMeasures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.Task1/1.3.Task1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.Task1/src/QuadraticEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.Task2/1.3.Task2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.Task2/src/BinaryValues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.Task3/1.3.Task3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.Task3/src/PrimeNumberGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.Task4/1.3.Task4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.3.Task4/src/MultiplicationTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4.Task1/1.4.Task1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4.Task1/src/NameGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4.Task2/1.4.Task2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4.Task2/src/SubArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4.Task3/1.4.Task3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.4.Task3/src/RemoveDups.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1.Task1/2.1.Task1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1.Task1/src/TelevisionViewer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1.Task2/2.1.Task2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1.Task2/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1.Task3/2.1.Task3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1.Task3/src/CoffeeMaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1.Task4/2.1.Task4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1.Task4/src/CarRevamped.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/satvi/LearningJava" value="38C6FTtMbeXBUiOdAiPpBaht4lQ" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;satvikvelpula&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/satvikvelpula/LearningJava.git&quot;,
+    &quot;accountId&quot;: &quot;b78a5e13-502f-4da2-982e-4505cc11d88c&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="38C6FTtMbeXBUiOdAiPpBaht4lQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AsteriskTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryValues.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarDriver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CoffeeMakerDriver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Converter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroceryListManager.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Library.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LibraryMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NameGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObsoleteMeasures.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumberGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuadraticEquation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDups.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfThreeNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TelevisionViewer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.backUp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task2.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/satvi/LearningJava&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/satvi/LearningJava/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/ExcepDataStream" />
+      <recent name="$PROJECT_DIR$/Collections" />
+      <recent name="$PROJECT_DIR$/Interface" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Synchronization" />
+      <recent name="$PROJECT_DIR$/Threads" />
+      <recent name="$PROJECT_DIR$/StaticsPackages" />
+      <recent name="$PROJECT_DIR$/Inheritance" />
+      <recent name="$PROJECT_DIR$/Association" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CarDriver">
+    <configuration name="CarDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CarDriver" />
+      <module name="LearningJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelevisionViewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-25" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="LearningJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CarDriver" />
+        <item itemvalue="Application.TelevisionViewer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adae3b10-d683-4d93-8cf8-d5852cf58734" name="Changes" comment="" />
+      <created>1768291101431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768291101431</updated>
+      <workItem from="1768291102470" duration="101000" />
+      <workItem from="1768291218371" duration="57502000" />
+      <workItem from="1768475647314" duration="95234000" />
+      <workItem from="1768922784400" duration="85695000" />
+      <workItem from="1769182358968" duration="132000" />
+      <workItem from="1769182499748" duration="645000" />
+      <workItem from="1769183155360" duration="160000" />
+      <workItem from="1769183329496" duration="33000" />
+      <workItem from="1769183374978" duration="102000" />
+      <workItem from="1769183562434" duration="34000" />
+      <workItem from="1769183612408" duration="11000" />
+      <workItem from="1769183657830" duration="11000" />
+      <workItem from="1769183671340" duration="60000" />
+      <workItem from="1769183755905" duration="244000" />
+      <workItem from="1769184006917" duration="1357000" />
+      <workItem from="1769185377116" duration="3727000" />
+      <workItem from="1769553857061" duration="989000" />
+      <workItem from="1769640231769" duration="546000" />
+      <workItem from="1769814043289" duration="1453000" />
+      <workItem from="1770786925528" duration="626000" />
+    </task>
+    <task id="LOCAL-00001" summary="Module 1 pushed">
+      <option name="closed" value="true" />
+      <created>1768866181832</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768866181832</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Module 1 pushed">
+      <option name="closed" value="true" />
+      <created>1768866588122</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768866588123</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Module 2 pushed">
+      <option name="closed" value="true" />
+      <created>1768894748790</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768894748790</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Module 2.3 pushed">
+      <option name="closed" value="true" />
+      <created>1769467643343</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769467643343</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Module 2.3 pushed">
+      <option name="closed" value="true" />
+      <created>1769467888029</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769467888029</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Module 3.1 pushed">
+      <option name="closed" value="true" />
+      <created>1769553748468</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1769553748468</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Module 3.2 pushed">
+      <option name="closed" value="true" />
+      <created>1769554244648</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1769554244648</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Collections and StaticsPackages modules pushed">
+      <option name="closed" value="true" />
+      <created>1769640517815</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1769640517815</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Exceptions, Data Streams module pushed">
+      <option name="closed" value="true" />
+      <created>1769814226893</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1769814226893</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Threads and Sync modules pushed">
+      <option name="closed" value="true" />
+      <created>1770787446884</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1770787446884</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Task 4 published (GitHub Copilot practice)">
+      <option name="closed" value="true" />
+      <created>1771184715857</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1771184715857</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Module 1 pushed" />
+    <MESSAGE value="Module 2 pushed" />
+    <MESSAGE value="Module 2.3 pushed" />
+    <MESSAGE value="Module 3.1 pushed" />
+    <MESSAGE value="Module 3.2 pushed" />
+    <MESSAGE value="Collections and StaticsPackages modules pushed" />
+    <MESSAGE value="Exceptions, Data Streams module pushed" />
+    <MESSAGE value="Threads and Sync modules pushed" />
+    <MESSAGE value="Task 4 published (GitHub Copilot practice)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 4 published (GitHub Copilot practice)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
