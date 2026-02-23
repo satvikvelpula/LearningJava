@@ -4,52 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adae3b10-d683-4d93-8cf8-d5852cf58734" name="Changes" comment="Task 4 published (GitHub Copilot practice)">
-      <change afterPath="$PROJECT_DIR$/Interface/3.2.Task1/src/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/3.2.Task2/src/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/3.2.Task3/src/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/3.2.Task4/src/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.Task1/1.1.Task1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.Task1/src/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.Task2/1.1.Task2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.Task2/src/AsteriskTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.Task3/1.1.Task3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.Task3/src/SumOfThreeNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.Task4/1.1.Task4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.Task4/src/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.Task1/1.2.Task1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.Task1/src/Converter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.Task2/1.2.Task2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.Task2/src/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.Task3/1.2.Task3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.Task3/src/ObsoleteMeasures.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.Task1/1.3.Task1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.Task1/src/QuadraticEquation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.Task2/1.3.Task2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.Task2/src/BinaryValues.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.Task3/1.3.Task3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.Task3/src/PrimeNumberGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.Task4/1.3.Task4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.Task4/src/MultiplicationTable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.Task1/1.4.Task1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.Task1/src/NameGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.Task2/1.4.Task2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.Task2/src/SubArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.Task3/1.4.Task3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.Task3/src/RemoveDups.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1.Task1/2.1.Task1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1.Task1/src/TelevisionViewer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1.Task2/2.1.Task2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1.Task2/src/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1.Task3/2.1.Task3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1.Task3/src/CoffeeMaker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1.Task4/2.1.Task4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1.Task4/src/CarRevamped.java" beforeDir="false" />
+    <list default="true" id="adae3b10-d683-4d93-8cf8-d5852cf58734" name="Changes" comment="New commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +26,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -98,55 +55,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AsteriskTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinaryValues.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CarDriver.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Cat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CoffeeMakerDriver.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Converter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GroceryListManager.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Library.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LibraryMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NameGenerator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ObsoleteMeasures.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNumberGenerator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QuadraticEquation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDups.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfThreeNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TelevisionViewer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.backUp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task2.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/satvi/LearningJava&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/satvi/LearningJava/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.AsteriskTriangle.executor": "Run",
+    "Application.BinaryValues.executor": "Run",
+    "Application.CarDriver.executor": "Run",
+    "Application.Cat.executor": "Run",
+    "Application.CoffeeMakerDriver.executor": "Run",
+    "Application.Converter.executor": "Run",
+    "Application.GroceryListManager.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.Library.executor": "Run",
+    "Application.LibraryMain.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.NameGenerator.executor": "Run",
+    "Application.ObsoleteMeasures.executor": "Run",
+    "Application.PrimeNumberGenerator.executor": "Run",
+    "Application.QuadraticEquation.executor": "Run",
+    "Application.RemoveDups.executor": "Run",
+    "Application.SubArray.executor": "Run",
+    "Application.SumOfThreeNumbers.executor": "Run",
+    "Application.TelevisionViewer.executor": "Run",
+    "Application.Triangle.executor": "Run",
+    "Application.backUp.executor": "Run",
+    "Application.task2.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/satvi/LearningJava",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/satvi/LearningJava/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -155,11 +114,11 @@
       <recent name="$PROJECT_DIR$/Interface" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DBPrep" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Synchronization" />
       <recent name="$PROJECT_DIR$/Threads" />
       <recent name="$PROJECT_DIR$/StaticsPackages" />
-      <recent name="$PROJECT_DIR$/Inheritance" />
-      <recent name="$PROJECT_DIR$/Association" />
     </key>
   </component>
   <component name="RunManager" selected="Application.CarDriver">
@@ -308,7 +267,23 @@
       <option name="project" value="LOCAL" />
       <updated>1771184715857</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1771795513130</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1771795513130</updated>
+    </task>
+    <task id="LOCAL-00013" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1771795550090</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1771795550090</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,7 +299,8 @@
     <MESSAGE value="Exceptions, Data Streams module pushed" />
     <MESSAGE value="Threads and Sync modules pushed" />
     <MESSAGE value="Task 4 published (GitHub Copilot practice)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 4 published (GitHub Copilot practice)" />
+    <MESSAGE value="New commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="New commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

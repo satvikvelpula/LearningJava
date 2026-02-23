@@ -1,0 +1,4 @@
+controller/DictionaryController.class
+com/example/Main.class
+view/DictionaryGUI.class
+model/DictionaryModel.class
