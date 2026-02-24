@@ -1,0 +1,133 @@
+package model;
+
+import com.google.gson.JsonElement;
+import com.google.gson.JsonObject;
+import com.google.gson.JsonParser;
+
+import java.io.BufferedReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.math.BigDecimal;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import java.util.HashMap;
+import java.util.Map;
+
+public class ExchangeRate {
+
+    private final String apiKey;
+    private String base;
+    private final String endPoint;
+    private final String baseURL;
+    private String currencyCode = "USD";
+    private String fullURL;
+
+    public ExchangeRate() {
+        this.apiKey = "c9d05e640b6b27b8cb6884a6";
+        this.base = currencyCode; // we will replace this later with the currency provided when the program progresses
+        this.endPoint = "/latest/";
+        this.baseURL = "https://v6.exchangerate-api.com/v6/";
+    }
+
+    public void changeCurrencyCode(String provided_code) {
+        this.base = provided_code;
+    }
+
+    public String fetchURL() {
+        fullURL = baseURL + apiKey + endPoint + base;
+        return fullURL;
+    }
+}
+
+class TestExchangeRate {
+
+    private URL full_url;
+    private HttpURLConnection connection;
+    private int responseCode;
+    private boolean successfulConnection;
+    private boolean disconnected;
+    private HashMap<String, BigDecimal> conversion_rates;
+
+    public TestExchangeRate() {
+        this.full_url = null;
+        this.connection = null;
+        this.responseCode = 0;
+        this.conversion_rates = new HashMap<>();
+    }
+
+    public void establishConnection(String provided_url) throws Exception {
+        full_url = new URL(provided_url);
+        connection = (HttpURLConnection) full_url.openConnection();
+        connection.setRequestMethod("GET");
+        responseCode = connection.getResponseCode();
+        System.out.println("Response code: " + responseCode);
+        if (responseCode == 200) {
+            successfulConnection = true;
+        }
+    }
+
+    public void fetchData() throws Exception {
+        if (!successfulConnection) {
+            return;
+        }
+
+        String line;
+        StringBuilder stringBuilder = new StringBuilder();
+        JsonObject root;
+
+        try (InputStream inputStream = connection.getInputStream();
+             InputStreamReader inputStreamReader = new InputStreamReader(inputStream);
+             BufferedReader bufferedReader = new BufferedReader(inputStreamReader)
+        )
+        {
+            while ((line = bufferedReader.readLine()) != null) {
+                stringBuilder.append(line);
+            }
+
+            String jsonResponse = stringBuilder.toString();
+            root = JsonParser.parseString(jsonResponse).getAsJsonObject();
+            JsonObject conversion_rates_json = root.getAsJsonObject("conversion_rates");
+
+            for (Map.Entry<String, JsonElement> element : conversion_rates_json.entrySet()) {
+                String element_key = element.getKey();
+                BigDecimal element_value = element.getValue().getAsBigDecimal();
+                conversion_rates.put(element_key, element_value);
+            }
+
+            for (Map.Entry<String, BigDecimal> i : conversion_rates.entrySet()) {
+                System.out.println(i);
+            } // note that hashmaps do not guarantee sequential order, so base case (currency) will be unsorted
+
+
+        } catch(Exception e) {
+            System.out.println("System error. ");
+        }
+    }
+
+    public void disconnect() {
+        if (!successfulConnection) {
+            return;
+        }
+
+        if (disconnected) {
+            return;
+        }
+
+        connection.disconnect();
+        disconnected = true;
+        System.out.println("Connection disconnected. ");
+    }
+}
+
+class ExchangeRateMain {
+    public static void main(String[] args) throws Exception {
+        ExchangeRate instantiable = new ExchangeRate();
+        instantiable.changeCurrencyCode("EUR");
+        String url = instantiable.fetchURL();
+
+        TestExchangeRate tester = new TestExchangeRate();
+        tester.establishConnection(url);
+        tester.fetchData();
+        tester.disconnect();
+    }
+}
