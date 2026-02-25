@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/LearningJava.iml" filepath="$PROJECT_DIR$/LearningJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/MouseEvents/MouseEvents.iml" filepath="$PROJECT_DIR$/MouseEvents/MouseEvents.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrinciplesOfGUI/PrinciplesOfGUI.iml" filepath="$PROJECT_DIR$/PrinciplesOfGUI/PrinciplesOfGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SceneBuilder/SceneBuilder.iml" filepath="$PROJECT_DIR$/SceneBuilder/SceneBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticsPackages/StaticsPackages.iml" filepath="$PROJECT_DIR$/StaticsPackages/StaticsPackages.iml" />
       <module fileurl="file://$PROJECT_DIR$/Synchronization/Synchronization.iml" filepath="$PROJECT_DIR$/Synchronization/Synchronization.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
