@@ -15,7 +15,7 @@ import java.util.Map;
 
 public class ExchangeRate {
 
-    private final String apiKey = "c58dcb57a54823e8824b06c3";
+    private final String apiKey = "api_key";
     private final String baseURL = "https://v6.exchangerate-api.com/v6/";
     private final String endPoint = "/latest/";
     private Map<String, BigDecimal> conversionRates = new HashMap<>();

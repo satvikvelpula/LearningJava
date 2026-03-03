@@ -8,9 +8,9 @@ import java.util.Map;
 
 public class CurrencyDBHandler {
 
-    private static final String URL = "jdbc:mariadb://127.0.0.1:3306/currency_db";
+    private static final String URL = "jdbc:mariadb://127.0.0.1:3306/db";
     private static final String USER = "appuser";
-    private static final String PASSWORD = "MyS3cur3P@ssw0rd!";
+    private static final String PASSWORD = "password";
 
     public static void updateCurrencies(Map<String, BigDecimal> rates) throws Exception {
         if (rates == null || rates.isEmpty()) return;
