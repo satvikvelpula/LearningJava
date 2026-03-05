@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<persistence xmlns="https://jakarta.ee/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="https://jakarta.ee/xml/ns/persistence
+                                 https://jakarta.ee/xml/ns/persistence/persistence_3_1.xsd"
+             version="3.1">
+
+
+    <persistence-unit name="currencyPU" transaction-type="RESOURCE_LOCAL">
+        <class>entity.Currency</class>
+
+        <properties>
+            <property name="jakarta.persistence.provider" value="org.hibernate.jpa.HibernatePersistenceProvider"/>
+            <!-- JDBC connection -->
+            <property name="jakarta.persistence.jdbc.driver" value="org.mariadb.jdbc.Driver"/>
+            <property name="jakarta.persistence.jdbc.url" value="jdbc:mariadb://127.0.0.1:3306/currency_db"/>
+            <property name="jakarta.persistence.jdbc.user" value="appuser"/>
+            <property name="jakarta.persistence.jdbc.password" value="MyS3cur3P@ssw0rd!"/>
+
+            <!-- Hibernate Dialect -->
+            <property name="hibernate.dialect" value="org.hibernate.dialect.MariaDBDialect"/>
+
+            <!-- Disable schema generation (existing DB) -->
+            <property name="jakarta.persistence.schema-generation.database.action" value="none"/>
+
+            <!-- Optional logging -->
+            <property name="hibernate.show_sql" value="true"/>
+            <property name="hibernate.format_sql" value="true"/>
+        </properties>
+    </persistence-unit>
+
+</persistence>
