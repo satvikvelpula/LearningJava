@@ -1,0 +1,38 @@
+<persistence xmlns="https://jakarta.ee/xml/ns/persistence"
+             version="3.0">
+
+    <persistence-unit name="currencyPU">
+
+        <class>entity.Currency</class>
+        <class>entity.Transaction</class>
+
+        <properties>
+
+            <property name="jakarta.persistence.jdbc.driver"
+                      value="org.mariadb.jdbc.Driver"/>
+
+            <property name="jakarta.persistence.jdbc.url"
+                      value="jdbc:mariadb://127.0.0.1:3306/currency_db"/>
+
+            <property name="jakarta.persistence.jdbc.user"
+                      value="appuser"/>
+
+            <property name="jakarta.persistence.jdbc.password"
+                      value="MyS3cur3P@ssw0rd!"/>
+
+            <property name="hibernate.dialect"
+                      value="org.hibernate.dialect.MariaDBDialect"/>
+
+            <property name="hibernate.hbm2ddl.auto"
+                      value="update"/>
+
+            <property name="hibernate.show_sql"
+                      value="true"/>
+
+            <property name="hibernate.hbm2ddl.auto" value="update"/>
+
+        </properties>
+
+    </persistence-unit>
+
+</persistence>

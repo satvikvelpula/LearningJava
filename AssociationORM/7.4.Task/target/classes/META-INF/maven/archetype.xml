@@ -1,0 +1,9 @@
+<archetype>
+  <id>7.4.Task</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>

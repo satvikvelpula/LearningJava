@@ -3,12 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Association/Association.iml" filepath="$PROJECT_DIR$/Association/Association.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AssociationORM/AssociationORM.iml" filepath="$PROJECT_DIR$/AssociationORM/AssociationORM.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/DBPrep/DBPrep.iml" filepath="$PROJECT_DIR$/DBPrep/DBPrep.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExcepDataStream/ExcepDataStream.iml" filepath="$PROJECT_DIR$/ExcepDataStream/ExcepDataStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Lambda/Lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/Layouts/Layouts.iml" filepath="$PROJECT_DIR$/Layouts/Layouts.iml" />
       <module fileurl="file://$PROJECT_DIR$/LearningJava.iml" filepath="$PROJECT_DIR$/LearningJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/MouseEvents/MouseEvents.iml" filepath="$PROJECT_DIR$/MouseEvents/MouseEvents.iml" />
