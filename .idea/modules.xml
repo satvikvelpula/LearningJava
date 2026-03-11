@@ -19,7 +19,9 @@
       <module fileurl="file://$PROJECT_DIR$/SceneBuilder/SceneBuilder.iml" filepath="$PROJECT_DIR$/SceneBuilder/SceneBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticsPackages/StaticsPackages.iml" filepath="$PROJECT_DIR$/StaticsPackages/StaticsPackages.iml" />
       <module fileurl="file://$PROJECT_DIR$/Synchronization/Synchronization.iml" filepath="$PROJECT_DIR$/Synchronization/Synchronization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TDD/TDD.iml" filepath="$PROJECT_DIR$/TDD/TDD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnitTests/UnitTests.iml" filepath="$PROJECT_DIR$/UnitTests/UnitTests.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
     </modules>
