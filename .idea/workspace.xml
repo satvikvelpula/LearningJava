@@ -89,7 +89,7 @@
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/satvi/LearningJava/Lambda",
+    "last_opened_file_path": "/Users/satvi/LearningJava/TDD",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -106,11 +106,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TDD" />
+      <recent name="$PROJECT_DIR$/UnitTests" />
       <recent name="$PROJECT_DIR$/Lambda" />
       <recent name="$PROJECT_DIR$/AssociationORM" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Persistance" />
-      <recent name="$PROJECT_DIR$/ExcepDataStream" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/JDBC" />
@@ -354,7 +354,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773121290450</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1773214132258</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1773214132258</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
